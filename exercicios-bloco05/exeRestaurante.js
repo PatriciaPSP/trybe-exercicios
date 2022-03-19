@@ -9,6 +9,7 @@ let garcom = 10;
 //var recebendo uma variável atribuindo valor 0
 let totalAPagar = 0;
 
+
 //valor do jantar + taxa do garçom / por 100, primeiro resolve dentro do () 
 //e depois o resultado mult por 80,00 que é o valor do jantar.
 

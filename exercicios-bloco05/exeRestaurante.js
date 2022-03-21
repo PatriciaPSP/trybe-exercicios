@@ -6,7 +6,7 @@
 let jantar = 80;
 //estabelece a var de % de taxa do garçom para que possa ser alterado o valor quando quiser
 let garcom = 10;
-//var recebendo uma variável atribuindo valor 0
+//var recebendo uma variável atribuindo valor
 let totalAPagar = 0;
 
 

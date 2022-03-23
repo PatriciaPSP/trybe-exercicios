@@ -12,14 +12,15 @@ let userPassword = 1234;
 let access = true;
 
 
-//Processamento 
+//Processamento e // Saída
 
-if (userName == 'Tamara Simões' && userPassword === 1234) {
-    console.log('Acesso permitido'); //Saída
+if (userName === 'Tamara Simões' && userPassword === 1234) {
+  console.log('Acesso permitido'); //Saída
 
 }
 else {
-    console.log('Acesso negado'); //Saída
+  console.log('Acesso negado'); //Saída
+  access = false;
 }
 
 

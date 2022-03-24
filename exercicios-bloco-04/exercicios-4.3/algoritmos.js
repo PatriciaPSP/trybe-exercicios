@@ -27,8 +27,9 @@ else {
 
 // ------------------------------------------------------------
 
-// 2. ​Faça um programa que com determinada quantidade, adicione pães em uma sacola e exiba quantos pães foram adicionados
-// um por um se o acesso for permitido. Se não permitido o acesso, não é possível acessar essa página​
+// 2. ​Faça um programa que com determinada quantidade, adicione pães em uma sacola e exiba quantos pães
+// foram adicionados um por um se o acesso for permitido. Se não permitido o acesso, não é possível 
+//acessar essa página​
 
 // Como eu sei que o acesso está permitido ? 
 // Se tiver permitido, exibe os pães na sacola 

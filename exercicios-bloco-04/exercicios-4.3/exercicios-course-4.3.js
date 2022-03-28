@@ -58,14 +58,6 @@ if (sum > 15) {
 //Se eu fosse um computador, conseguiria entender todas as intruções?
 
 
-
-
-
-
-
-
-
-
 //Exercício 01 - 
 //O fatorial é a multiplicação de um número natural pelos seus antecessores, exceto o zero. Por exemplo:
 //O fatorial é representado pelo sinal !
@@ -92,3 +84,4 @@ for (let index = 0; index < word.length; index += 1) {
 }
 
 console.log(reverseWord);
+

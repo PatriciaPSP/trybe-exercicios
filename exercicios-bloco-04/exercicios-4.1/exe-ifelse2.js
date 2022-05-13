@@ -48,6 +48,3 @@ else if(currentHour >= 4 && currentHour <= 11){
   console.log('Hmmm, cheiro de café recém passado');
 }
 message;
-
-
-
